@@ -1,0 +1,12 @@
+name: 'Islandora Audio'
+description: 'Islandora audio derivative actions'
+type: module
+package: Islandora
+core_version_requirement: ^9 || ^10
+dependencies:
+  - drupal:islandora
+
+# Information added by Drupal.org packaging script on 2023-07-26
+version: '2.8.2'
+project: 'islandora'
+datestamp: 1690381685

@@ -1,0 +1,11 @@
+description: Provides test functionality.
+name: File Hash Test
+type: module
+dependencies:
+  - drupal:file
+package: Testing
+
+# Information added by Drupal.org packaging script on 2023-01-12
+version: '2.0.9'
+project: 'filehash'
+datestamp: 1673522787
